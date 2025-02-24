@@ -1,0 +1,6 @@
+[package]
+name = "remove_duplicates_sorted_array"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
